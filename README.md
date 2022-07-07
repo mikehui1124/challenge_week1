@@ -2,6 +2,7 @@
 
 This is a html sourecode for the landing page of Horiseon, a digital marketing company. The client instructs us to refactor the code to improve largely the accessibility of the site to meet a set of acceptance criteria, while keep the page layout unchanged.
 The refactored html and CSS sourcecode is available in this Github repo as Master branch, file names as listed below. The deployed URL of webpage is available in Github Page @ https://mikehui1124.github.io/challenge_week1/
+
 •	Index.html
 •	\assets\css\style.css
 
@@ -17,6 +18,7 @@ The webpage will meet the following accessibility standards requested by client,
 -	I find accessible alt attributes when view image elements
 -	I find heading attributes all fall in sequential order
 -	I find a concise, descriptive title at the top of the page
+
 Refactoring Details
 The html and CSS source code is refactored coherently to reflect the accessibility requirements in these manners,
 Html code
