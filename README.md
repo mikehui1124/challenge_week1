@@ -4,9 +4,11 @@ This is a html sourecode for the landing page of Horiseon, a digital marketing c
 The refactored html and CSS sourcecode is available in this Github repo as Master branch, file names as listed below. The deployed URL of webpage is available in Github Page @ https://mikehui1124.github.io/challenge_week1/
 
 •	Index.html
+
 •	\assets\css\style.css
 
 Brief description
+
 The landing page points to 3 main business areas of the client in digitalmarketing, namely search engine optimize, online reputation management and social media marketing. The nav-bar contains links to each of these core areas on the lower part of the page. Besides the core area is a section listing out 3 benefits available to the service customers.  The way the header, background graphic, main content and the footer is arranged on the webpage have to be maintained, while refactoring the code’s accessibility merits.
 ![image](https://user-images.githubusercontent.com/105307687/177594926-3732e03b-a85d-427a-9071-93435590491d.png)
 
@@ -22,6 +24,7 @@ The webpage will meet the following accessibility standards requested by client,
 Refactoring Details
 
 The html and CSS source code is refactored coherently to reflect the accessibility requirements in these manners,
+
 Html code
 -	Horiseon Digital Marketing is used as a concise & descriptive title
 -	Each of the header, nav-bar, background graphic, main content and the footer components of html code now switches to semantic elements to replace repeated <div> . The structure and order of the webpage is easily identified from the semantic elements.
