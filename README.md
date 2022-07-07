@@ -20,6 +20,7 @@ The webpage will meet the following accessibility standards requested by client,
 -	I find a concise, descriptive title at the top of the page
 
 Refactoring Details
+
 The html and CSS source code is refactored coherently to reflect the accessibility requirements in these manners,
 Html code
 -	Horiseon Digital Marketing is used as a concise & descriptive title
